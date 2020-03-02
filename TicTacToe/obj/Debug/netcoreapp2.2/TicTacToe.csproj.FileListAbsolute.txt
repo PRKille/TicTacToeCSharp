@@ -7,3 +7,5 @@
 /Users/Guest/Desktop/TicTacToe.Solution/TicTacToe/bin/Debug/netcoreapp2.2/TicTacToe.pdb
 /Users/Guest/Desktop/TicTacToe.Solution/TicTacToe/obj/Debug/netcoreapp2.2/TicTacToe.dll
 /Users/Guest/Desktop/TicTacToe.Solution/TicTacToe/obj/Debug/netcoreapp2.2/TicTacToe.pdb
+/Users/Guest/Desktop/TicTacToe.Solution/TicTacToe/bin/Debug/netcoreapp2.2/TicTacToe.runtimeconfig.json
+/Users/Guest/Desktop/TicTacToe.Solution/TicTacToe/bin/Debug/netcoreapp2.2/TicTacToe.runtimeconfig.dev.json

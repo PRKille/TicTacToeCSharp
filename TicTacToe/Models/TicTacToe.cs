@@ -13,14 +13,14 @@ namespace TicTacToe
     {
       CurrentPlayer = 'X';
       TurnCount = 1;
-      Board[0] = new char[] {'a', 'b', 'c'};
-      Board[1] = new char[] {'d', 'e', 'f'};
-      Board[2] = new char[] {'g', 'h', 'i'};
+      Board[0] = new char[] {' ', ' ', ' '};
+      Board[1] = new char[] {' ', ' ', ' '};
+      Board[2] = new char[] {' ', ' ', ' '};
     }
 
     public string PrintBoard()
     {
-      return $"{Board[0][0]}|{Board[0][1]}|{Board[0][2]}\n-----\n{Board[1][0]}|{Board[1][1]}|{Board[1][2]}\n-----\n{Board[2][0]}|{Board[2][1]}|{Board[2][2]}\n";
+      return $"\ny\n\n0 {Board[0][0]}|{Board[0][1]}|{Board[0][2]}\n  -----\n1 {Board[1][0]}|{Board[1][1]}|{Board[1][2]}\n  -----\n2 {Board[2][0]}|{Board[2][1]}|{Board[2][2]}\n\n  0 1 2 x";
     }
 
     public void IncrementTurn()
@@ -59,14 +59,14 @@ namespace TicTacToe
       if(TurnCount >= 5)
       {
         if (
-        Board[0][0] == Board[1][0] && Board[1][0] == Board[2][0] || 
-        Board[0][1] == Board[1][1] && Board[1][1] == Board[2][1] || 
-        Board[0][2] == Board[1][2] && Board[1][2] == Board[2][2] || 
-        Board[0][0] == Board[0][1] && Board[0][1] == Board[0][2] || 
-        Board[1][0] == Board[1][1] && Board[1][1] == Board[1][2] || 
-        Board[2][0] == Board[2][1] && Board[2][1] == Board[2][2] || 
-        Board[0][0] == Board[1][1] && Board[1][1] == Board[2][2] || 
-        Board[2][0] == Board[1][1] && Board[1][1] == Board[0][2] )
+        Board[0][0] != ' ' && Board[0][0] == Board[1][0] && Board[1][0] == Board[2][0] || 
+        Board[0][1] != ' ' && Board[0][1] == Board[1][1] && Board[1][1] == Board[2][1] || 
+        Board[0][2] != ' ' && Board[0][2] == Board[1][2] && Board[1][2] == Board[2][2] || 
+        Board[0][0] != ' ' && Board[0][0] == Board[0][1] && Board[0][1] == Board[0][2] || 
+        Board[1][0] != ' ' && Board[1][0] == Board[1][1] && Board[1][1] == Board[1][2] || 
+        Board[2][0] != ' ' && Board[2][0] == Board[2][1] && Board[2][1] == Board[2][2] || 
+        Board[0][0] != ' ' && Board[0][0] == Board[1][1] && Board[1][1] == Board[2][2] || 
+        Board[2][0] != ' ' && Board[2][0] == Board[1][1] && Board[1][1] == Board[0][2] )
         {
           return true;
         }
