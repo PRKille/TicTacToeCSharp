@@ -1,0 +1,17 @@
+/Users/Guest/Desktop/TicTacToe.Solution/TicTacToe.Tests/obj/Debug/netcoreapp2.2/TicTacToe.Tests.csprojAssemblyReference.cache
+/Users/Guest/Desktop/TicTacToe.Solution/TicTacToe.Tests/obj/Debug/netcoreapp2.2/TicTacToe.Tests.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/TicTacToe.Solution/TicTacToe.Tests/obj/Debug/netcoreapp2.2/TicTacToe.Tests.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/TicTacToe.Solution/TicTacToe.Tests/obj/Debug/netcoreapp2.2/TicTacToe.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/TicTacToe.Solution/TicTacToe.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/TicTacToe.Solution/TicTacToe.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/TicTacToe.Solution/TicTacToe.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/TicTacToe.Solution/TicTacToe.Tests/bin/Debug/netcoreapp2.2/TicTacToe.Tests.deps.json
+/Users/Guest/Desktop/TicTacToe.Solution/TicTacToe.Tests/bin/Debug/netcoreapp2.2/TicTacToe.Tests.runtimeconfig.json
+/Users/Guest/Desktop/TicTacToe.Solution/TicTacToe.Tests/bin/Debug/netcoreapp2.2/TicTacToe.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/TicTacToe.Solution/TicTacToe.Tests/bin/Debug/netcoreapp2.2/TicTacToe.Tests.dll
+/Users/Guest/Desktop/TicTacToe.Solution/TicTacToe.Tests/bin/Debug/netcoreapp2.2/TicTacToe.Tests.pdb
+/Users/Guest/Desktop/TicTacToe.Solution/TicTacToe.Tests/bin/Debug/netcoreapp2.2/TicTacToe.dll
+/Users/Guest/Desktop/TicTacToe.Solution/TicTacToe.Tests/bin/Debug/netcoreapp2.2/TicTacToe.pdb
+/Users/Guest/Desktop/TicTacToe.Solution/TicTacToe.Tests/obj/Debug/netcoreapp2.2/TicTacToe.Tests.csproj.CopyComplete
+/Users/Guest/Desktop/TicTacToe.Solution/TicTacToe.Tests/obj/Debug/netcoreapp2.2/TicTacToe.Tests.dll
+/Users/Guest/Desktop/TicTacToe.Solution/TicTacToe.Tests/obj/Debug/netcoreapp2.2/TicTacToe.Tests.pdb
